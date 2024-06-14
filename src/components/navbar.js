@@ -8,7 +8,7 @@ export default function navbar(){
     return(
         <div className="main flex flex-row items-center justify-around">
             <div className="logo flex flex-row items-center">
-                <h1 className='text-5xl font-semibold hover:font-bold hover:text-pink-600 duration-150'><a href="/">Spectre</a></h1>
+                <h1 className='text-5xl font-semibold hover:font-bold hover:text-pink-600 duration-150'><a href="/">Wild Store</a></h1>
             </div>
             <div className="options flex flex-row justify-around">
                 <div className="hover:font-bold hover:text-pink-600 duration-150 item">
